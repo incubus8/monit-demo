@@ -1,108 +1,0 @@
-[WIB Nov 22 22:21:32] info     : Reinitializing monit daemon
-[WIB Nov 22 22:21:32] info     : Monit daemon is not running
-[WIB Nov 22 22:21:48] info     : Starting Monit 5.25.1 daemon with http interface at [localhost]:2812
-[WIB Nov 22 22:21:48] info     : 'rheza-it.local' Monit 5.25.1 started
-[WIB Nov 22 22:22:18] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:21] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:21] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:22] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:22] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:22] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:25] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:25] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:28] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:28] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:28] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:28] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:28] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:28] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:28] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:28] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:28] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:29] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:29] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:29] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:29] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:29] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:29] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:29] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:29] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:31] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:31] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:33] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:33] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:33] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:36] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:36] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:37] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:22:42] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:24:08] info     : Reinitializing monit daemon
-[WIB Nov 22 22:24:08] info     : Reinitializing Monit -- control file '/Users/angel/.monitrc'
-[WIB Nov 22 22:24:09] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:24:14] warning  : Skipping 'allow localhost' -- host resolved to [::ffff:127.0.0.1] which is present in ACL already
-[WIB Nov 22 22:24:14] info     : 'rheza-it.local' Monit reloaded
-[WIB Nov 22 22:24:44] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:24:47] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:25:15] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:25:16] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:25:16] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:26:02] error    : 'check-bi' status failed (1) -- % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   271  100   271    0     0   3242      0 --:--:-- --:--:-- --:--:--  3265
-100 12952    0 12952    0     0  52798      0 --:--:-- --:--:-- --:--:-- 52798100 12952    0 12952    0     0  52779      0 --:--:-- --:--:-- --:--:--     0
-[WIB Nov 22 22:26:05] error    : 'check-bi' status failed (1) -- % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   271  100   271    0     0   4444      0 --:--:-- --:--:-- --:--:--  4516
-100 13812    0 13812    0     0  66916      0 --:--:-- --:--:-- --:--:-- 66916
-[WIB Nov 22 22:26:08] error    : 'check-bi' status failed (1) -- % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   271  100   271    0     0   4364      0 --:--:-- --:--:-- --:--:--  4370
-100  9223    0  9223    0     0  38600      0 --:--:-- --:--:-- --:--:-- 38600100 12966    0 12966    0     0  53636      0 --:--:-- --:--:-- --:--:-- 1827k
-[WIB Nov 22 22:26:11] error    : 'check-bi' status failed (1) -- % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   271  100   271    0     0   3983      0 --:--:-- --:--:-- --:--:--  4044
-100  9223    0  9223    0     0  38150      0 --:--:-- --:--:-- --:--:-- 38150100 12880    0 12880    0     0  52456      0 --:--:-- --:--:-- --:--:-- 1190k
-[WIB Nov 22 22:26:14] error    : 'check-bi' status failed (1) -- % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   271  100   271    0     0   4902      0 --:--:-- --:--:-- --:--:--  4927
-100  6387    0  6387    0     0  31030      0 --:--:-- --:--:-- --:--:-- 31030100 12821    0 12821    0     0  44525      0 --:--:-- --:--:-- --:--:-- 78463
-[WIB Nov 22 22:26:17] error    : 'check-bi' status failed (1) -- % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   271  100   271    0     0   3543      0 --:--:-- --:--:-- --:--:--  3565
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 12899    0 12899    0     0  35023      0 --:--:-- --:--:-- --:--:-- 87748
-[WIB Nov 22 22:26:20] info     : 'check-bi' status succeeded (0) -- % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   271  100   271    0     0   4735      0 --:--:-- --:--:-- --:--:--  4754
-100   715    0   715    0     0   3848      0 --:--:-- --:--:-- --:--:--  3848100 12799    0 12799    0     0  67090      0 --:--:-- --:--:-- --:--:-- 2950k
-})();</script><div id="mngb"> <div id=gbar><nobr><b class=gb1>Telusuri</b> <a class=gb1 href="http://www.google.co.id/imghp?hl=id&tab=wi">Gambar</a> <a class=gb1 href="http://maps.google.co.id/maps?hl=id&tab=wl">Maps</a> <a class=gb1 href="http://www.yout
-[WIB Nov 22 22:26:39] info     : Reinitializing monit daemon
-[WIB Nov 22 22:26:39] info     : Reinitializing Monit -- control file '/Users/angel/.monitrc'
-[WIB Nov 22 22:26:45] warning  : Skipping 'allow localhost' -- host resolved to [::ffff:127.0.0.1] which is present in ACL already
-[WIB Nov 22 22:26:45] info     : 'rheza-it.local' Monit reloaded
-[WIB Nov 22 22:26:49] info     : Reinitializing monit daemon
-[WIB Nov 22 22:26:50] error    : Cannot create socket to [localhost]:25 -- Connection refused
-[WIB Nov 22 22:26:50] error    : Cannot open a connection to the mailserver localhost:25 -- Operation now in progress
-[WIB Nov 22 22:26:50] error    : Mail: Delivery failed -- no mail server is available
-[WIB Nov 22 22:26:50] error    : Aborting event
-[WIB Nov 22 22:26:53] info     : Reinitializing Monit -- control file '/Users/angel/.monitrc'
-[WIB Nov 22 22:27:20] info     : 'rheza-it.local' Monit reloaded
-[WIB Nov 22 22:27:22] error    : Cannot create socket to [localhost]:25 -- Connection refused
-[WIB Nov 22 22:27:22] error    : Cannot open a connection to the mailserver localhost:25 -- Operation now in progress
-[WIB Nov 22 22:27:22] error    : Mail: Delivery failed -- no mail server is available
-[WIB Nov 22 22:27:22] error    : Aborting event
-[WIB Nov 22 22:30:07] info     : Reinitializing monit daemon
-[WIB Nov 22 22:30:07] info     : Reinitializing Monit -- control file '/Users/angel/.monitrc'
-[WIB Nov 22 22:30:12] info     : 'rheza-it.local' Monit reloaded
-[WIB Nov 22 22:30:42] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:30:45] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:31:02] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:31:07] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:34:38] info     : Reinitializing monit daemon
-[WIB Nov 22 22:34:38] info     : Reinitializing Monit -- control file '/Users/angel/.monitrc'
-[WIB Nov 22 22:34:44] info     : 'rheza-it.local' Monit reloaded
-[WIB Nov 22 22:35:18] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:35:22] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:35:22] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:38:12] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:38:12] error    : Denied connection from non-authorized client [::1]
-[WIB Nov 22 22:38:17] error    : Denied connection from non-authorized client [::1]

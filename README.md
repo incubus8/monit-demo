@@ -23,10 +23,17 @@ So, in another folder do the following:
 ```shell
 $ git clone git@github.com:incubus8/monit-demo.git
 $ cd monit-demo
+$ chmod 0700 .monitrc # <--- important!
 $ monit -c .monitrc
 ```
 
 If success, monit daemon will be up and running in your machine.
+
+### See monit log
+
+```shell
+$ tail -f .monit.log 
+```
 
 #### Reloading Monitrc
 
