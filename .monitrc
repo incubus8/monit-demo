@@ -1,0 +1,17 @@
+set daemon 30
+
+set logfile /Users/angel/tech/check-bi/.monit.log
+set mailserver localhost
+set mail-format { from: mymonit@bri.co.id }
+set alert rheza.satria.ta@gmail.com
+
+set httpd port 2812 and
+    use address localhost  # only accept connection from localhost
+    allow localhost        # allow localhost to connect to the server and
+    allow admin:monit
+    allow @monit
+    allow @users readonly
+
+check program check-bi with path "/Users/angel/tech/check-bi/check-bi.sh"
+  if status != 0
+  then alert
