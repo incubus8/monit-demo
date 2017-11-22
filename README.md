@@ -27,7 +27,7 @@ $ chmod 0700 .monitrc # <--- important!
 $ monit -c .monitrc
 ```
 
-If success, monit daemon will be up and running in your machine.
+If success, monit daemon will be up and running in your machine. You should be able to see web UI in [127.0.0.1:2812](127.0.0.1:2812)
 
 ### See monit log
 
